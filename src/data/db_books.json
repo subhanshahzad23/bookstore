@@ -1,0 +1,1897 @@
+[
+  {
+    "_id": {
+      "$oid": "00209773df7e793858dad9c3"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "Pikinokka pystykorva - suomalaisen pystykorvametsästyksen opas",
+    "tekija": "Erkki Tuominen",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "",
+    "kustantaja": "Karisto",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2018-06-01T07:37:05.327Z"
+    },
+    "hylly": "146",
+    "sidonta": "Sidottu kansipaperein",
+    "kunto": "K3",
+    "painovuosi": "1988",
+    "painos": "2",
+    "muuta": " ",
+    "hinta": 15,
+    "valuuttakoodi": "EUR",
+    "maara": -1,
+    "kieli": "suomi",
+    "sivum": "197",
+    "kuvatieto": "183935-20180521124435.jpg",
+    "antikvaari_id": 2135923,
+    "tuoteryhma": 27,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "6238c2428ec954bc14ac32e4"
+      },
+      {
+        "$oid": "6238c2ef8ec954bc14ac42e2"
+      },
+      {
+        "$oid": "6238f3408ec954bc14b1309c"
+      }
+    ],
+    "hintaHaku": 15,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e570"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792002b32db9a887a016"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792002b32db9a887a016"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_00209773df7e793858dad9c3.jpg",
+        "file_md": "md_00209773df7e793858dad9c3.jpg",
+        "file_lg": "lg_00209773df7e793858dad9c3.jpg",
+        "filename": "183935-20180521124435.jpg",
+        "filename_edit": "",
+        "filename_original": "183935-20180521124435.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:28.066Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:48:55.211Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:28.117Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdc7b77bdf0a1b6e33e1\",\"pos\":1,\"process_id\":\"66fbfdc7b77bdf0a1b6e33e1\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_00209773df7e793858dad9c3.jpg\",\"file_md\":\"md_00209773df7e793858dad9c3.jpg\",\"file_lg\":\"lg_00209773df7e793858dad9c3.jpg\",\"filename\":\"183935-20180521124435.jpg\",\"filename_edit\":\"\",\"filename_original\":\"183935-20180521124435.jpg\",\"created\":\"2024-10-01T13:48:55.211Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 27,
+        "tuoteryhmat": [367601, 384012],
+        "category": 110,
+        "kuvatieto": "183935-20180521124435.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_00209773df7e793858dad9c3.jpg",
+        "kuvaMd": "/1101/md_00209773df7e793858dad9c3.jpg",
+        "kuvaLg": "/1101/lg_00209773df7e793858dad9c3.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.242Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "karisto",
+    "nimiHaku": "pikinokka pystykorva suomalaisen pystykorvametsastyksen opas",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "erkki tuominen",
+    "tuoteryhmat": [206000, 208000, 367601, 384012],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "000c7659df7e793858c6f12e"
+    },
+    "myytyPvm": [],
+    "hakusanat": [""],
+    "tila": false,
+    "nimi": "Ovikello soi (Sapo 80)",
+    "tekija": "Stout Rex",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "389",
+    "kustantaja": "Wsoy",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2015-11-28T07:31:00.000Z"
+    },
+    "hylly": "389",
+    "sidonta": "Nidottu",
+    "kunto": "K3",
+    "painovuosi": "1990",
+    "painos": "2",
+    "muuta": "",
+    "hinta": 3,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "219",
+    "kuvatieto": "1101_10006_201457174030.jpg",
+    "antikvaari_id": 816729,
+    "tuoteryhma": 4,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "6223cad9ce8ddfd997cf0d4b"
+      },
+      {
+        "$oid": "622721ff5ea453843089cbe8"
+      },
+      {
+        "$oid": "623906728ec954bc14b309ea"
+      }
+    ],
+    "hintaHaku": 3,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e764"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792502b32db9a887a115"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792502b32db9a887a115"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_000c7659df7e793858c6f12e.jpg",
+        "file_md": "md_000c7659df7e793858c6f12e.jpg",
+        "file_lg": "lg_000c7659df7e793858c6f12e.jpg",
+        "filename": "1101_10006_201457174030.jpg",
+        "filename_edit": "",
+        "filename_original": "1101_10006_201457174030.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:33.133Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:48:59.870Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:33.168Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdcbb77bdf0a1b6e3462\",\"pos\":1,\"process_id\":\"66fbfdcbb77bdf0a1b6e3462\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_000c7659df7e793858c6f12e.jpg\",\"file_md\":\"md_000c7659df7e793858c6f12e.jpg\",\"file_lg\":\"lg_000c7659df7e793858c6f12e.jpg\",\"filename\":\"1101_10006_201457174030.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1101_10006_201457174030.jpg\",\"created\":\"2024-10-01T13:48:59.870Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 4,
+        "tuoteryhmat": [384024],
+        "category": 110,
+        "kuvatieto": "1101_10006_201457174030.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_000c7659df7e793858c6f12e.jpg",
+        "kuvaMd": "/1101/md_000c7659df7e793858c6f12e.jpg",
+        "kuvaLg": "/1101/lg_000c7659df7e793858c6f12e.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.304Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "wsoy",
+    "nimiHaku": "ovikello soi sapo 80",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "stout rex",
+    "tuoteryhmat": [208000, 384024],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "001f9e8ddf7e793858d9e121"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "Kuningatar Hanhenjalan ravintola & Paistinkääntäjän pakinoita",
+    "tekija": "Anatole France",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "",
+    "kustantaja": "Otava",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2018-02-13T18:11:09.743Z"
+    },
+    "hylly": "1205",
+    "sidonta": "Nidottu",
+    "kunto": "K3",
+    "painovuosi": "1989",
+    "painos": "1989",
+    "muuta": " ",
+    "hinta": 3,
+    "valuuttakoodi": "EUR",
+    "maara": -1,
+    "kieli": "suomi",
+    "sivum": "361",
+    "kuvatieto": "148277-20180213181058.jpg",
+    "antikvaari_id": 2072205,
+    "tuoteryhma": 17,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "623855f88ec954bc14a125f5"
+      },
+      {
+        "$oid": "6238c4038ec954bc14ac5d26"
+      },
+      {
+        "$oid": "6238d26e8ec954bc14adc34d"
+      },
+      {
+        "$oid": "6238f8358ec954bc14b1a954"
+      }
+    ],
+    "hintaHaku": 3,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e7f7"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792f02b32db9a887a331"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792f02b32db9a887a331"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_001f9e8ddf7e793858d9e121.jpg",
+        "file_md": "md_001f9e8ddf7e793858d9e121.jpg",
+        "file_lg": "lg_001f9e8ddf7e793858d9e121.jpg",
+        "filename": "148277-20180213181058.jpg",
+        "filename_edit": "",
+        "filename_original": "148277-20180213181058.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:43.431Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:10.391Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:43.471Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdd6b77bdf0a1b6e3580\",\"pos\":1,\"process_id\":\"66fbfdd6b77bdf0a1b6e3580\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_001f9e8ddf7e793858d9e121.jpg\",\"file_md\":\"md_001f9e8ddf7e793858d9e121.jpg\",\"file_lg\":\"lg_001f9e8ddf7e793858d9e121.jpg\",\"filename\":\"148277-20180213181058.jpg\",\"filename_edit\":\"\",\"filename_original\":\"148277-20180213181058.jpg\",\"created\":\"2024-10-01T13:49:10.391Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 17,
+        "tuoteryhmat": [384002],
+        "category": 110,
+        "kuvatieto": "148277-20180213181058.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_001f9e8ddf7e793858d9e121.jpg",
+        "kuvaMd": "/1101/md_001f9e8ddf7e793858d9e121.jpg",
+        "kuvaLg": "/1101/lg_001f9e8ddf7e793858d9e121.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.362Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "otava",
+    "nimiHaku": "kuningatar hanhenjalan ravintola paistinkaantajan pakinoita",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "anatole france",
+    "tuoteryhmat": [208000, 384002],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "000c5ffedf7e793858c6dad3"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "Teetä kolmelle",
+    "tekija": "Christie Agatha",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "351",
+    "kustantaja": "WSOY",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2019-06-04T14:40:25.000Z"
+    },
+    "hylly": "351",
+    "sidonta": "Sidottu kuvakannet",
+    "kunto": "K3",
+    "painovuosi": "1990",
+    "painos": "5",
+    "muuta": " ",
+    "hinta": 8,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "233",
+    "kuvatieto": "1070_CCI000392918.jpg",
+    "antikvaari_id": 811006,
+    "tuoteryhma": 4,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "62228199d4b69dcb7e05b0b2"
+      },
+      {
+        "$oid": "622370d6ce8ddfd997ce43e6"
+      },
+      {
+        "$oid": "622370d9ce8ddfd997ce43eb"
+      },
+      {
+        "$oid": "6238d6d98ec954bc14ae370f"
+      },
+      {
+        "$oid": "623905c28ec954bc14b2f9a0"
+      },
+      {
+        "$oid": "623911b98ec954bc14b42011"
+      },
+      {
+        "$oid": "623911c48ec954bc14b42152"
+      },
+      {
+        "$oid": "623922808ec954bc14b5b258"
+      }
+    ],
+    "hintaHaku": 8,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e63e"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792902b32db9a887a205"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792902b32db9a887a205"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_000c5ffedf7e793858c6dad3.jpg",
+        "file_md": "md_000c5ffedf7e793858c6dad3.jpg",
+        "file_lg": "lg_000c5ffedf7e793858c6dad3.jpg",
+        "filename": "1070_CCI000392918.jpg",
+        "filename_edit": "",
+        "filename_original": "1070_cci000392918.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:37.708Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:04.870Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:37.744Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdd0b77bdf0a1b6e34e8\",\"pos\":1,\"process_id\":\"66fbfdd0b77bdf0a1b6e34e8\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_000c5ffedf7e793858c6dad3.jpg\",\"file_md\":\"md_000c5ffedf7e793858c6dad3.jpg\",\"file_lg\":\"lg_000c5ffedf7e793858c6dad3.jpg\",\"filename\":\"1070_CCI000392918.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1070_cci000392918.jpg\",\"created\":\"2024-10-01T13:49:04.870Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 4,
+        "tuoteryhmat": [384024],
+        "category": 110,
+        "kuvatieto": "1070_CCI000392918.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_000c5ffedf7e793858c6dad3.jpg",
+        "kuvaMd": "/1101/md_000c5ffedf7e793858c6dad3.jpg",
+        "kuvaLg": "/1101/lg_000c5ffedf7e793858c6dad3.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.420Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "wsoy",
+    "nimiHaku": "teeta kolmelle",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "christie agatha",
+    "tuoteryhmat": [208000, 384024],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "000c6da6df7e793858c6e87b"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "Kadonnut ääni",
+    "tekija": "Stout Rex",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "378",
+    "kustantaja": "Wsoy",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2015-10-15T18:52:00.000Z"
+    },
+    "hylly": "378",
+    "sidonta": "Nidottu, pehmeäkantinen",
+    "kunto": "K3",
+    "painovuosi": "1991",
+    "painos": "3",
+    "muuta": "",
+    "hinta": 5,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "291",
+    "kuvatieto": "1101_10000032_20151015185231.jpg",
+    "antikvaari_id": 814502,
+    "tuoteryhma": 4,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "62228583d4b69dcb7e05b98d"
+      },
+      {
+        "$oid": "622376b8ce8ddfd997ce5135"
+      },
+      {
+        "$oid": "6238f3408ec954bc14b1309f"
+      }
+    ],
+    "hintaHaku": 5,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e783"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd791f02b32db9a887a012"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd791f02b32db9a887a012"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_000c6da6df7e793858c6e87b.jpg",
+        "file_md": "md_000c6da6df7e793858c6e87b.jpg",
+        "file_lg": "lg_000c6da6df7e793858c6e87b.jpg",
+        "filename": "1101_10000032_20151015185231.jpg",
+        "filename_edit": "",
+        "filename_original": "1101_10000032_20151015185231.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:27.780Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:48:55.145Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:28.012Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdc7b77bdf0a1b6e33df\",\"pos\":1,\"process_id\":\"66fbfdc7b77bdf0a1b6e33df\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_000c6da6df7e793858c6e87b.jpg\",\"file_md\":\"md_000c6da6df7e793858c6e87b.jpg\",\"file_lg\":\"lg_000c6da6df7e793858c6e87b.jpg\",\"filename\":\"1101_10000032_20151015185231.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1101_10000032_20151015185231.jpg\",\"created\":\"2024-10-01T13:48:55.145Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 4,
+        "tuoteryhmat": [384024],
+        "category": 110,
+        "kuvatieto": "1101_10000032_20151015185231.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_000c6da6df7e793858c6e87b.jpg",
+        "kuvaMd": "/1101/md_000c6da6df7e793858c6e87b.jpg",
+        "kuvaLg": "/1101/lg_000c6da6df7e793858c6e87b.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.478Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "wsoy",
+    "nimiHaku": "kadonnut aani",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "stout rex",
+    "tuoteryhmat": [208000, 384024],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "001c9318df7e793858d6daf1"
+    },
+    "myytyPvm": [],
+    "hakusanat": [""],
+    "tila": false,
+    "nimi": "Sadunkuvittaja Rudolf Koivu : sagotecknare",
+    "tekija": "",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "",
+    "kustantaja": "WSOY",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2017-04-24T09:42:00.000Z"
+    },
+    "hylly": "1029",
+    "sidonta": "Sidottu",
+    "kunto": "K2",
+    "painovuosi": "1947",
+    "painos": "1",
+    "muuta": "Kannet kuluneet ja töhrityt. Esisivuilla myös söhryjä. Sisäsivuiltaan hyväkuntoinen. ",
+    "hinta": 15,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "96",
+    "kuvatieto": "102284-20170417104101.jpg",
+    "antikvaari_id": 1872664,
+    "tuoteryhma": 23,
+    "op": "schema conversion ver.2a",
+    "hintaHaku": 15,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e8ae"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792a02b32db9a887a235"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792a02b32db9a887a235"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_001c9318df7e793858d6daf1.jpg",
+        "file_md": "md_001c9318df7e793858d6daf1.jpg",
+        "file_lg": "lg_001c9318df7e793858d6daf1.jpg",
+        "filename": "102284-20170417104101.jpg",
+        "filename_edit": "",
+        "filename_original": "102284-20170417104101.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:38.615Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:05.721Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:38.653Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdd1b77bdf0a1b6e3500\",\"pos\":1,\"process_id\":\"66fbfdd1b77bdf0a1b6e3500\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_001c9318df7e793858d6daf1.jpg\",\"file_md\":\"md_001c9318df7e793858d6daf1.jpg\",\"file_lg\":\"lg_001c9318df7e793858d6daf1.jpg\",\"filename\":\"102284-20170417104101.jpg\",\"filename_edit\":\"\",\"filename_original\":\"102284-20170417104101.jpg\",\"created\":\"2024-10-01T13:49:05.721Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 23,
+        "tuoteryhmat": [384006],
+        "category": 110,
+        "kuvatieto": "102284-20170417104101.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_001c9318df7e793858d6daf1.jpg",
+        "kuvaMd": "/1101/md_001c9318df7e793858d6daf1.jpg",
+        "kuvaLg": "/1101/lg_001c9318df7e793858d6daf1.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.534Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "wsoy",
+    "nimiHaku": "sadunkuvittaja rudolf koivu sagotecknare",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "",
+    "tuoteryhmat": [208000, 384006],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "000c4fecdf7e793858c6cac1"
+    },
+    "myytyPvm": [],
+    "hakusanat": [""],
+    "tila": false,
+    "nimi": "Ollin parhaat",
+    "tekija": "Olli",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "328",
+    "kustantaja": "Otava",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2015-04-21T14:32:00.000Z"
+    },
+    "hylly": "328",
+    "sidonta": "Sidottu, ei kansipapereita",
+    "kunto": "K3",
+    "painovuosi": "1971",
+    "painos": "1",
+    "muuta": "",
+    "hinta": 8,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "198",
+    "kuvatieto": "1101_10018_2015421143211.jpg",
+    "antikvaari_id": 806892,
+    "tuoteryhma": 18,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "62388f538ec954bc14a6fc09"
+      }
+    ],
+    "hintaHaku": 8,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e51d"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792002b32db9a887a01a"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792002b32db9a887a01a"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_000c4fecdf7e793858c6cac1.jpg",
+        "file_md": "md_000c4fecdf7e793858c6cac1.jpg",
+        "file_lg": "lg_000c4fecdf7e793858c6cac1.jpg",
+        "filename": "1101_10018_2015421143211.jpg",
+        "filename_edit": "",
+        "filename_original": "1101_10018_2015421143211.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:28.161Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:48:55.282Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:28.201Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdc7b77bdf0a1b6e33e3\",\"pos\":1,\"process_id\":\"66fbfdc7b77bdf0a1b6e33e3\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_000c4fecdf7e793858c6cac1.jpg\",\"file_md\":\"md_000c4fecdf7e793858c6cac1.jpg\",\"file_lg\":\"lg_000c4fecdf7e793858c6cac1.jpg\",\"filename\":\"1101_10018_2015421143211.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1101_10018_2015421143211.jpg\",\"created\":\"2024-10-01T13:48:55.282Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 18,
+        "tuoteryhmat": [384001],
+        "category": 110,
+        "kuvatieto": "1101_10018_2015421143211.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_000c4fecdf7e793858c6cac1.jpg",
+        "kuvaMd": "/1101/md_000c4fecdf7e793858c6cac1.jpg",
+        "kuvaLg": "/1101/lg_000c4fecdf7e793858c6cac1.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.590Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "otava",
+    "nimiHaku": "ollin parhaat",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "olli",
+    "tuoteryhmat": [208000, 384001],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "001d3798df7e793858d77f33"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "Ponityttö ja menestyksen hinta",
+    "tekija": "Merja Jalo",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "",
+    "kustantaja": "",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2017-06-25T20:39:57.330Z"
+    },
+    "hylly": "1019",
+    "sidonta": "Sidottu",
+    "kunto": "K3",
+    "painovuosi": "1996",
+    "painos": "Ei tiedossa",
+    "muuta": "Kuvakannet. ",
+    "hinta": 5,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "105",
+    "kuvatieto": "117023-20170620103907.jpg",
+    "antikvaari_id": 1914776,
+    "tuoteryhma": 31,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "62222d79d4b69dcb7e04f221"
+      },
+      {
+        "$oid": "6238f3478ec954bc14b13167"
+      }
+    ],
+    "hintaHaku": 5,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e44d"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792f02b32db9a887a335"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792f02b32db9a887a335"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_001d3798df7e793858d77f33.jpg",
+        "file_md": "md_001d3798df7e793858d77f33.jpg",
+        "file_lg": "lg_001d3798df7e793858d77f33.jpg",
+        "filename": "117023-20170620103907.jpg",
+        "filename_edit": "",
+        "filename_original": "117023-20170620103907.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:43.511Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:10.461Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:43.548Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdd6b77bdf0a1b6e3582\",\"pos\":1,\"process_id\":\"66fbfdd6b77bdf0a1b6e3582\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_001d3798df7e793858d77f33.jpg\",\"file_md\":\"md_001d3798df7e793858d77f33.jpg\",\"file_lg\":\"lg_001d3798df7e793858d77f33.jpg\",\"filename\":\"117023-20170620103907.jpg\",\"filename_edit\":\"\",\"filename_original\":\"117023-20170620103907.jpg\",\"created\":\"2024-10-01T13:49:10.461Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 31,
+        "tuoteryhmat": [380001],
+        "category": 110,
+        "kuvatieto": "117023-20170620103907.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_001d3798df7e793858d77f33.jpg",
+        "kuvaMd": "/1101/md_001d3798df7e793858d77f33.jpg",
+        "kuvaLg": "/1101/lg_001d3798df7e793858d77f33.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.646Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "",
+    "nimiHaku": "ponitytto ja menestyksen hinta",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "merja jalo",
+    "tuoteryhmat": [208000],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "001dbdaadf7e793858d800fe"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "Kaksi kertaa kuolema",
+    "tekija": "Dorothy L. Sayers",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "",
+    "kustantaja": "WSOY",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2018-11-23T00:09:51.063Z"
+    },
+    "hylly": "1117",
+    "sidonta": "Nidottu",
+    "kunto": "K3",
+    "painovuosi": "1990",
+    "painos": "Ei tiedossa",
+    "muuta": "",
+    "hinta": 5,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "211",
+    "kuvatieto": "120456-20170825102607.jpg",
+    "antikvaari_id": 1949098,
+    "tuoteryhma": 47,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "622fc10810e64be01ced44c4"
+      },
+      {
+        "$oid": "6238fa848ec954bc14b1e198"
+      }
+    ],
+    "hintaHaku": 5,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e817"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792502b32db9a887a119"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792502b32db9a887a119"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_001dbdaadf7e793858d800fe.jpg",
+        "file_md": "md_001dbdaadf7e793858d800fe.jpg",
+        "file_lg": "lg_001dbdaadf7e793858d800fe.jpg",
+        "filename": "120456-20170825102607.jpg",
+        "filename_edit": "",
+        "filename_original": "120456-20170825102607.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:33.208Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:48:59.940Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:33.246Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdcbb77bdf0a1b6e3464\",\"pos\":1,\"process_id\":\"66fbfdcbb77bdf0a1b6e3464\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_001dbdaadf7e793858d800fe.jpg\",\"file_md\":\"md_001dbdaadf7e793858d800fe.jpg\",\"file_lg\":\"lg_001dbdaadf7e793858d800fe.jpg\",\"filename\":\"120456-20170825102607.jpg\",\"filename_edit\":\"\",\"filename_original\":\"120456-20170825102607.jpg\",\"created\":\"2024-10-01T13:48:59.940Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 47,
+        "tuoteryhmat": [380001],
+        "category": 110,
+        "kuvatieto": "120456-20170825102607.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_001dbdaadf7e793858d800fe.jpg",
+        "kuvaMd": "/1101/md_001dbdaadf7e793858d800fe.jpg",
+        "kuvaLg": "/1101/lg_001dbdaadf7e793858d800fe.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.701Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "wsoy",
+    "nimiHaku": "kaksi kertaa kuolema",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "dorothy l sayers",
+    "tuoteryhmat": [200099],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "001f0aa0df7e793858d94d68"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "Selittämätön todellisuus - paranormaalien ilmiöiden salaisuudet",
+    "tekija": "H. J. Eysenck",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "",
+    "kustantaja": "Karisto",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2018-02-27T22:41:57.637Z"
+    },
+    "hylly": "191",
+    "sidonta": "Sidottu kansipaperein",
+    "kunto": "K3",
+    "painovuosi": "1983",
+    "painos": "Ei tiedossa",
+    "muuta": "",
+    "hinta": 8,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "192",
+    "kuvatieto": "140303-20171229135528.jpg",
+    "antikvaari_id": 2034336,
+    "tuoteryhma": 47,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "62307d7310e64be01cf2771e"
+      }
+    ],
+    "hintaHaku": 8,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e991"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792f02b32db9a887a339"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792f02b32db9a887a339"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_001f0aa0df7e793858d94d68.jpg",
+        "file_md": "md_001f0aa0df7e793858d94d68.jpg",
+        "file_lg": "lg_001f0aa0df7e793858d94d68.jpg",
+        "filename": "140303-20171229135528.jpg",
+        "filename_edit": "",
+        "filename_original": "140303-20171229135528.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:43.588Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:10.531Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:43.623Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdd6b77bdf0a1b6e3584\",\"pos\":1,\"process_id\":\"66fbfdd6b77bdf0a1b6e3584\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_001f0aa0df7e793858d94d68.jpg\",\"file_md\":\"md_001f0aa0df7e793858d94d68.jpg\",\"file_lg\":\"lg_001f0aa0df7e793858d94d68.jpg\",\"filename\":\"140303-20171229135528.jpg\",\"filename_edit\":\"\",\"filename_original\":\"140303-20171229135528.jpg\",\"created\":\"2024-10-01T13:49:10.531Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 47,
+        "tuoteryhmat": [380001],
+        "category": 110,
+        "kuvatieto": "140303-20171229135528.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_001f0aa0df7e793858d94d68.jpg",
+        "kuvaMd": "/1101/md_001f0aa0df7e793858d94d68.jpg",
+        "kuvaLg": "/1101/lg_001f0aa0df7e793858d94d68.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.758Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "karisto",
+    "nimiHaku": "selittamaton todellisuus paranormaalien ilmioiden salaisuudet",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "h j eysenck",
+    "tuoteryhmat": [200099],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "00211f70df7e793858db61a6"
+    },
+    "myytyPvm": [],
+    "hakusanat": [],
+    "tila": false,
+    "nimi": "70-luvun nuori runo",
+    "tekija": "Arto Melleri",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "",
+    "kustantaja": "Otava",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2018-08-09T15:15:28.360Z"
+    },
+    "hylly": "872",
+    "sidonta": "Nidottu",
+    "kunto": "K3",
+    "painovuosi": "1981",
+    "painos": "2",
+    "muuta": " ",
+    "hinta": 5,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "",
+    "sivum": "270",
+    "kuvatieto": "187040-20180705133300.jpg",
+    "antikvaari_id": 2170736,
+    "tuoteryhma": 34,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "6222270bd4b69dcb7e04e392"
+      },
+      {
+        "$oid": "6238d3438ec954bc14add9b5"
+      }
+    ],
+    "hintaHaku": 5,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e3e9"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792502b32db9a887a11d"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792502b32db9a887a11d"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_00211f70df7e793858db61a6.jpg",
+        "file_md": "md_00211f70df7e793858db61a6.jpg",
+        "file_lg": "lg_00211f70df7e793858db61a6.jpg",
+        "filename": "187040-20180705133300.jpg",
+        "filename_edit": "",
+        "filename_original": "187040-20180705133300.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:33.286Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:00.011Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:33.322Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdccb77bdf0a1b6e3466\",\"pos\":1,\"process_id\":\"66fbfdccb77bdf0a1b6e3466\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_00211f70df7e793858db61a6.jpg\",\"file_md\":\"md_00211f70df7e793858db61a6.jpg\",\"file_lg\":\"lg_00211f70df7e793858db61a6.jpg\",\"filename\":\"187040-20180705133300.jpg\",\"filename_edit\":\"\",\"filename_original\":\"187040-20180705133300.jpg\",\"created\":\"2024-10-01T13:49:00.011Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 34,
+        "tuoteryhmat": [384003],
+        "category": 110,
+        "kuvatieto": "187040-20180705133300.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_00211f70df7e793858db61a6.jpg",
+        "kuvaMd": "/1101/md_00211f70df7e793858db61a6.jpg",
+        "kuvaLg": "/1101/lg_00211f70df7e793858db61a6.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.815Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "otava",
+    "nimiHaku": "70 luvun nuori runo",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "arto melleri",
+    "tuoteryhmat": [208000, 384003],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "000c6796df7e793858c6e26b"
+    },
+    "myytyPvm": [],
+    "hakusanat": [""],
+    "tila": false,
+    "nimi": "Covering Model Aircraft (Radio Control Handbooks)",
+    "tekija": "Peacock Ian",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "286",
+    "kustantaja": "Argus Books",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2015-01-27T10:31:00.000Z"
+    },
+    "hylly": "286",
+    "sidonta": "Nidottu",
+    "kunto": "K3",
+    "painovuosi": "1989",
+    "painos": null,
+    "muuta": "",
+    "hinta": 10,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "englanti",
+    "sivum": "63",
+    "kuvatieto": "1101_10011_2015127103047.jpg",
+    "antikvaari_id": 812950,
+    "tuoteryhma": 9,
+    "op": "schema conversion ver.2a",
+    "hintaHaku": 10,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e659"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792002b32db9a887a01e"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792002b32db9a887a01e"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_000c6796df7e793858c6e26b.jpg",
+        "file_md": "md_000c6796df7e793858c6e26b.jpg",
+        "file_lg": "lg_000c6796df7e793858c6e26b.jpg",
+        "filename": "1101_10011_2015127103047.jpg",
+        "filename_edit": "",
+        "filename_original": "1101_10011_2015127103047.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:28.242Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:48:55.361Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:28.283Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdc7b77bdf0a1b6e33e5\",\"pos\":1,\"process_id\":\"66fbfdc7b77bdf0a1b6e33e5\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_000c6796df7e793858c6e26b.jpg\",\"file_md\":\"md_000c6796df7e793858c6e26b.jpg\",\"file_lg\":\"lg_000c6796df7e793858c6e26b.jpg\",\"filename\":\"1101_10011_2015127103047.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1101_10011_2015127103047.jpg\",\"created\":\"2024-10-01T13:48:55.361Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 9,
+        "tuoteryhmat": [370001],
+        "category": 110,
+        "kuvatieto": "1101_10011_2015127103047.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_000c6796df7e793858c6e26b.jpg",
+        "kuvaMd": "/1101/md_000c6796df7e793858c6e26b.jpg",
+        "kuvaLg": "/1101/lg_000c6796df7e793858c6e26b.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.871Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "argus books",
+    "nimiHaku": "covering model aircraft radio control handbooks",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "peacock ian",
+    "tuoteryhmat": [206000, 360002],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "0010d08edf7e793858cb49e6"
+    },
+    "myytyPvm": [],
+    "hakusanat": [""],
+    "tila": false,
+    "nimi": "Norton singles - Manx and Inter, and all side and overhead valve singles from 1927 to 1966",
+    "tekija": "Bacon Roy",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "314",
+    "kustantaja": "Osprey collectors library",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2015-03-13T08:27:00.000Z"
+    },
+    "hylly": "314",
+    "sidonta": "Sidottu kansipaperi",
+    "kunto": "K3",
+    "painovuosi": null,
+    "painos": null,
+    "muuta": "",
+    "hinta": 18,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "englanti",
+    "sivum": "192",
+    "kuvatieto": "1101_67_20135232414.jpg",
+    "antikvaari_id": 1101966,
+    "tuoteryhma": 43,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "6229cbd808bb15f4e4514122"
+      },
+      {
+        "$oid": "6238dbfb8ec954bc14aec306"
+      }
+    ],
+    "hintaHaku": 18,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e8a8"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792a02b32db9a887a239"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792a02b32db9a887a239"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_0010d08edf7e793858cb49e6.jpg",
+        "file_md": "md_0010d08edf7e793858cb49e6.jpg",
+        "file_lg": "lg_0010d08edf7e793858cb49e6.jpg",
+        "filename": "1101_67_20135232414.jpg",
+        "filename_edit": "",
+        "filename_original": "1101_67_20135232414.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:38.691Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:05.781Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:38.726Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdd1b77bdf0a1b6e3502\",\"pos\":1,\"process_id\":\"66fbfdd1b77bdf0a1b6e3502\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_0010d08edf7e793858cb49e6.jpg\",\"file_md\":\"md_0010d08edf7e793858cb49e6.jpg\",\"file_lg\":\"lg_0010d08edf7e793858cb49e6.jpg\",\"filename\":\"1101_67_20135232414.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1101_67_20135232414.jpg\",\"created\":\"2024-10-01T13:49:05.781Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 43,
+        "tuoteryhmat": [360001],
+        "category": 110,
+        "kuvatieto": "1101_67_20135232414.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_0010d08edf7e793858cb49e6.jpg",
+        "kuvaMd": "/1101/md_0010d08edf7e793858cb49e6.jpg",
+        "kuvaLg": "/1101/lg_0010d08edf7e793858cb49e6.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.926Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "osprey collectors library",
+    "nimiHaku": "norton singles manx and inter and all side and overhead valve singles from 1927 to 1966",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "bacon roy",
+    "tuoteryhmat": [206000, 360001],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "0013883cdf7e793858ce00dc"
+    },
+    "myytyPvm": [],
+    "hakusanat": [""],
+    "tila": false,
+    "nimi": "Chinese gung fu - The philosophical art of Self-defence",
+    "tekija": "Lee Bruce",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "277",
+    "kustantaja": null,
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2015-01-24T07:52:00.000Z"
+    },
+    "hylly": "277",
+    "sidonta": "Nidottu",
+    "kunto": "K3",
+    "painovuosi": "1988",
+    "painos": "3",
+    "muuta": "",
+    "hinta": 7,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "englanti",
+    "sivum": "97",
+    "kuvatieto": "1101_10010_2014528113529.jpg",
+    "antikvaari_id": 1280060,
+    "tuoteryhma": 45,
+    "op": "schema conversion ver.2a",
+    "catalog_suggestions": [
+      {
+        "$oid": "6238d4c88ec954bc14ae01d7"
+      }
+    ],
+    "hintaHaku": 7,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e8ff"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792a02b32db9a887a23d"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792a02b32db9a887a23d"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_0013883cdf7e793858ce00dc.jpg",
+        "file_md": "md_0013883cdf7e793858ce00dc.jpg",
+        "file_lg": "lg_0013883cdf7e793858ce00dc.jpg",
+        "filename": "1101_10010_2014528113529.jpg",
+        "filename_edit": "",
+        "filename_original": "1101_10010_2014528113529.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:38.765Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:05.861Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:38.801Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdd1b77bdf0a1b6e3504\",\"pos\":1,\"process_id\":\"66fbfdd1b77bdf0a1b6e3504\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_0013883cdf7e793858ce00dc.jpg\",\"file_md\":\"md_0013883cdf7e793858ce00dc.jpg\",\"file_lg\":\"lg_0013883cdf7e793858ce00dc.jpg\",\"filename\":\"1101_10010_2014528113529.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1101_10010_2014528113529.jpg\",\"created\":\"2024-10-01T13:49:05.861Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 45,
+        "tuoteryhmat": [379001],
+        "category": 110,
+        "kuvatieto": "1101_10010_2014528113529.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_0013883cdf7e793858ce00dc.jpg",
+        "kuvaMd": "/1101/md_0013883cdf7e793858ce00dc.jpg",
+        "kuvaLg": "/1101/lg_0013883cdf7e793858ce00dc.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:32.982Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "",
+    "nimiHaku": "chinese gung fu the philosophical art of self defence",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "lee bruce",
+    "tuoteryhmat": [207000, 379001],
+    "ver": "2a"
+  },
+  {
+    "_id": {
+      "$oid": "0013cf6adf7e793858ce47f6"
+    },
+    "myytyPvm": [],
+    "hakusanat": [""],
+    "tila": false,
+    "nimi": "Making Vintage Bags",
+    "tekija": "Brennan Emma",
+    "paatuoteryhma": "Kirjat",
+    "myyntipaikka": "",
+    "tuotekoodi": "700",
+    "kustantaja": "Guild of Master Craftsman Publications",
+    "isbn": "",
+    "y_id": 1101,
+    "ynimi": "OllinOnni Oy",
+    "ytila": 1,
+    "pvm": {
+      "$date": "2014-07-08T19:48:00.000Z"
+    },
+    "hylly": "700",
+    "sidonta": "Nidottu",
+    "kunto": "K4",
+    "painovuosi": null,
+    "painos": null,
+    "muuta": "",
+    "hinta": 15,
+    "valuuttakoodi": "EUR",
+    "maara": 0,
+    "kieli": "englanti",
+    "sivum": "172",
+    "kuvatieto": "1101_10003_20147712941.jpg",
+    "antikvaari_id": 1298282,
+    "tuoteryhma": 21,
+    "op": "schema conversion ver.2a",
+    "hintaHaku": 15,
+    "varasto": {
+      "$oid": "64da1b1390b47ad274f6e8b0"
+    },
+    "kuvat": [
+      {
+        "_id": {
+          "$oid": "66fd792502b32db9a887a121"
+        },
+        "pos": 1,
+        "process_id": {
+          "$oid": "66fd792502b32db9a887a121"
+        },
+        "file_domain": "https://storage.googleapis.com",
+        "file_path": "antikvaari_kuvat/imagesproduct/1101",
+        "file_sm": "sm_0013cf6adf7e793858ce47f6.jpg",
+        "file_md": "md_0013cf6adf7e793858ce47f6.jpg",
+        "file_lg": "lg_0013cf6adf7e793858ce47f6.jpg",
+        "filename": "1101_10003_20147712941.jpg",
+        "filename_edit": "",
+        "filename_original": "1101_10003_20147712941.jpg",
+        "created": {
+          "$date": "2024-10-02T16:47:33.362Z"
+        },
+        "edited": null,
+        "resized": null,
+        "deleted": null
+      }
+    ],
+    "old_data": [
+      {
+        "kuvat": [],
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-01T13:49:00.080Z"
+        }
+      },
+      {
+        "date": {
+          "$date": "2024-10-02T16:47:33.399Z"
+        },
+        "asetukset": null,
+        "piilotettu": "",
+        "kategoria": "",
+        "tuoteryhmat": "[]",
+        "isbn": null,
+        "kustantajaHaku": "",
+        "nimiHaku": "",
+        "tekijaHaku": "",
+        "category": "",
+        "kuvat": "[{\"_id\":\"66fbfdccb77bdf0a1b6e3468\",\"pos\":1,\"process_id\":\"66fbfdccb77bdf0a1b6e3468\",\"file_domain\":\"https://storage.googleapis.com\",\"file_path\":\"antikvaari_kuvat/imagesproduct/1101\",\"file_sm\":\"sm_0013cf6adf7e793858ce47f6.jpg\",\"file_md\":\"md_0013cf6adf7e793858ce47f6.jpg\",\"file_lg\":\"lg_0013cf6adf7e793858ce47f6.jpg\",\"filename\":\"1101_10003_20147712941.jpg\",\"filename_edit\":\"\",\"filename_original\":\"1101_10003_20147712941.jpg\",\"created\":\"2024-10-01T13:49:00.080Z\",\"edited\":null,\"resized\":null,\"deleted\":null}]",
+        "tarkistettu": "",
+        "ver": ""
+      },
+      {
+        "kategoria": 110,
+        "tuoteryhma": 21,
+        "tuoteryhmat": [365001],
+        "category": 110,
+        "kuvatieto": "1101_10003_20147712941.jpg",
+        "kuvasijainti": "https://storage.googleapis.com/antikvaari_kuvat/imagesproduct",
+        "kuvaSm": "/1101/sm_0013cf6adf7e793858ce47f6.jpg",
+        "kuvaMd": "/1101/md_0013cf6adf7e793858ce47f6.jpg",
+        "kuvaLg": "/1101/lg_0013cf6adf7e793858ce47f6.jpg",
+        "lisaKuvat": [],
+        "date": {
+          "$date": "2024-10-17T14:51:33.037Z"
+        }
+      }
+    ],
+    "asetukset": {
+      "tiedot_teokselta": false
+    },
+    "category": 110,
+    "kategoria": 110,
+    "kustantajaHaku": "guild of master craftsman publications",
+    "nimiHaku": "making vintage bags",
+    "nimikeLisatiedot": "",
+    "piilotettu": false,
+    "tarkistettu": null,
+    "tekijaHaku": "brennan emma",
+    "tuoteryhmat": [206000, 365001],
+    "ver": "2a"
+  }
+]

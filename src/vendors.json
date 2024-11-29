@@ -1,0 +1,738 @@
+[
+  {
+    "domain": "localhost:3001",
+    "_id": {
+      "$oid": "00000504e92b760440046059"
+    },
+    "tila": 1,
+    "ynimi": "Markon Kirja",
+    "osoite": "Koulunkuja 6",
+    "pno": "55600",
+    "ptp": "Rauhalainen",
+    "maa": "",
+    "puh": "0503466262",
+    "faksi": null,
+    "matkapuh": "0503466262",
+    "lytunnus": "123124-4",
+    "regtunnus": null,
+    "perustettu": null,
+    "omistaja": "Marko Pylkkänen",
+    "email": "asiakaspalvelu@antikvaari.fi",
+    "www_osoite": null,
+    "pvm": {
+      "$date": "2020-10-21T14:41:51.070Z"
+    },
+    "toimiala": null,
+    "tietoa": "<p>Tämä on vain testikauppa.</p>",
+    "toimitustieto": "<p>Toimitusehtoja sovelletaan.</p>",
+    "tiedote": "<p><br></p>",
+    "tiedote_pvm": {
+      "$date": "2024-03-25T08:12:41.020Z"
+    },
+    "antikvaariKauppias": true,
+    "aukiolo": "<p>Tämä on testikauppias. Emme toimi mitään - kai.</p>",
+    "antikvaari_id": 1284,
+    "lukittu": false,
+    "__v": 0,
+    "maksutavat": [
+      {
+        "maksutapa": "Verkkopankkimaksu",
+        "tiedot": "Visma Pay -maksupalvelu",
+        "maksuehto": 0,
+        "maksupalvelu": "Visma Pay",
+        "tila": true,
+        "autoVahvistus": true
+      },
+      {
+        "maksutapa": "Ennakkomaksu",
+        "tiedot": "Tilisiirto ennen toimitusta",
+        "maksuehto": 0,
+        "tila": true,
+        "autoVahvistus": true
+      },
+      {
+        "maksutapa": "Lasku",
+        "tiedot": "Lasku vain yrityksille ja yhteisöille.",
+        "maksuehto": 10,
+        "tila": true,
+        "autoVahvistus": false
+      },
+      {
+        "maksutapa": "Noudettaessa",
+        "tiedot": "Käteisellä noudettaessa",
+        "tila": false,
+        "autoVahvistus": false,
+        "maksuehto": 0
+      }
+    ],
+    "tilausvahvistus": "Hei,\n\nTilauksenne on nyt vahvistettu! Hyvää talvea!\n\nTerveisin,\nMarkon Kirja",
+    "toimitustavat": [
+      {
+        "toimitustapa": "Nouto",
+        "toimitustiedot": "Nouto liikkeestä aukioloaikoina",
+        "toimituskulut": "0",
+        "tila": false
+      },
+      {
+        "toimitustapa": "Postipaketti",
+        "toimitustiedot": "Toimitustapa riippuu tilauksen koosta ja painosta. Voit esittää kauppiaalle toiveita toimitustavasta viestikentän kautta.",
+        "toimituskulut": "6",
+        "ilmainenToimitus": "30",
+        "tila": true
+      },
+      {
+        "toimitustapa": "Toimitus perille / kotipaketti",
+        "toimitustiedot": "Toimitus kotiinkuljetettuna",
+        "toimituskulut": "10",
+        "ilmainenToimitus": "50",
+        "tila": true
+      },
+      {
+        "toimitustapa": "Ulkomaat",
+        "toimitustiedot": "Ulkomaan toimitus",
+        "toimituskulut": "",
+        "ilmainenToimitus": "",
+        "tila": false
+      }
+    ],
+    "naytaOsoite": true,
+    "naytaPuh": true,
+    "tilausvastaanotettu": "Hei, \n\nKiitokset tilauksestanne! Tilaus käsitellään mahd.pian.\n\nTerveisin,\nMarko Kirja",
+    "antikkaKauppias": false,
+    "apiKayttaja": true,
+    "maksunsaaja": "Marko Pylkkänen",
+    "provisio": 14,
+    "tuoteTila": true,
+    "bic": "OBOYFIHH",
+    "salasanan_pal": {
+      "token": "",
+      "luotu": {
+        "$date": "2023-11-04T10:49:24.246Z"
+      },
+      "vaihdettu": {
+        "$date": "2023-11-04T10:50:14.868Z"
+      }
+    },
+    "views": 142,
+    "maksutavat_pvm": {
+      "$date": "2022-12-27T15:24:46.109Z"
+    },
+    "toimitustavat_pvm": {
+      "$date": "2022-10-20T11:26:52.726Z"
+    },
+    "visma_pay_requested": false,
+    "visma_pay_id": "43787",
+    "ehdot_pvm": {
+      "$date": "2023-11-29T13:14:01.294Z"
+    },
+    "viestit_pvm": {
+      "$date": "2023-06-01T12:57:33.234Z"
+    },
+    "rekNimi": "TMI Marko Pylkkänen",
+    "laskutusEmail": "testi@hotmail.com",
+    "laskutusKanava": "email",
+    "operaattoritunnus": "",
+    "verkkolaskuosoite": "",
+    "tiedot_pvm": {
+      "$date": "2023-04-14T04:28:09.009Z"
+    },
+    "visma_pay_disabled": null,
+    "fennoa_id": "F0001",
+    "provisioUudet": 5,
+    "muistio": "20.10.2022 14.57: Visma Pay -verkkomaksut sallittu.\n20.10.2022 14.57: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 14.56: Visma Pay -verkkomaksut poistettu käytöstä.\n20.10.2022 14.56: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 14.55: Visma Pay -verkkomaksut sallittu.\n20.10.2022 14.55: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 14.54: Visma Pay -verkkomaksut poistettu käytöstä.\n20.10.2022 14.54: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 14.54: Visma Pay kauppias-id vaihdettu. Edellinen kauppias-id: -\n20.10.2022 14.54: Visma Pay -verkkomaksut sallittu.\n20.10.2022 14.54: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 14.48: Visma Pay kauppias-id vaihdettu. Edellinen kauppias-id: -\n20.10.2022 14.48: Visma Pay -verkkomaksut sallittu.\n20.10.2022 14.48: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 14.41: Visma Pay kauppias-id vaihdettu. Edellinen kauppias-id: -\n20.10.2022 14.41: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 12.30: Visma Pay -verkkomaksut poistettu käytöstä.\n20.10.2022 12.30: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 12.30: Visma Pay -verkkomaksut sallittu.\n20.10.2022 12.30: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 12.24: Visma Pay -verkkomaksut poistettu käytöstä.\n20.10.2022 12.24: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 12.24: Visma Pay -verkkomaksut sallittu.\n20.10.2022 12.24: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 12.01: Visma Pay -verkkomaksut sallittu.\n20.10.2022 12.01: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 12.00: Visma Pay -verkkomaksut poistettu käytöstä.\n20.10.2022 12.00: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 11.57: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 11.55: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 11.54: Visma Pay kauppias-id vaihdettu. Edellinen kauppias-id: -\n20.10.2022 11.54: Visma Pay -verkkomaksut sallittu.\n20.10.2022 11.54: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 11.53: Admin muuttanut kauppiaan tietoja.\n\n20.10.2022 11.14: Admin muuttanut kauppiaan tietoja.\n",
+    "visma_pay_activated": {
+      "$date": "2022-10-20T11:57:01.242Z"
+    },
+    "viestimallit": [
+      {
+        "id": "63d3868bd64dd5311c46e025",
+        "nimi": "Viesti 1",
+        "viesti": "Viestipohja 1",
+        "lisatty": "2023-01-27T08:08:43.153Z",
+        "muokattu": null,
+        "poistettu": null
+      },
+      {
+        "id": "63d38694d64dd5311c46e026",
+        "nimi": "Viesti 2",
+        "viesti": "Viesti 2",
+        "lisatty": "2023-01-27T08:08:52.162Z",
+        "muokattu": null,
+        "poistettu": null
+      },
+      {
+        "id": "63d37d07d64dd5311c46e023",
+        "nimi": "Viesti 1, MP",
+        "viesti": "Viestipohja",
+        "lisatty": {
+          "$date": "2023-01-27T07:28:07.220Z"
+        },
+        "muokattu": null,
+        "poistettu": {
+          "$date": "2023-01-27T07:29:31.633Z"
+        }
+      }
+    ],
+    "reviewOrders": {
+      "rating": 4,
+      "count": 25,
+      "updated": {
+        "$date": "2024-03-26T17:13:57.876Z"
+      }
+    },
+    "lomaAika": null,
+    "lomaTila": false,
+    "lomaTila_pvm": {
+      "$date": "2023-06-03T14:22:40.021Z"
+    },
+    "lomaViesti": "",
+    "lomaAsetettu": null,
+    "sesonkiTilausPvm": {
+      "$date": "2023-12-18T10:00:00.000Z"
+    },
+    "colors": [
+      {
+        "id": 1,
+        "name": "primary",
+        "hex": "#67BDFF"
+      }
+    ],
+    "logo": "https://loopy2.mauri.posso.fi/wp-content/themes/loopy-teema/assets/images/logo_oranssi.png",
+    "frontpage": {
+      "title": "Salpakirja",
+      "excerpt": "Joku lyhyt teksti",
+      "hero": "https://loopy2.mauri.posso.fi/wp-content/uploads/2024/04/loopy_oranssi.png",
+      "readmore": {
+        "text": "Lue lisää",
+        "url": "https://salpakirja.net/"
+      }
+    },
+    "pages": [
+      {
+        "id": 1,
+        "name": "Ostamme",
+        "url": "ostamme",
+        "content": "<h1>Ostamme ja otamme vastaan hyväkuntoisia kirjoja, lehtiä ja sarjakuvia</h1><p>Olemme avanneet palvelun, jossa hyväkuntoisia kirjoja otetaan lahjoituksena ilmaiseksi vastaan Haminan ja Kotkan liikkeissä. Emme kuitenkaan ota vastaan rikkinäisiä, kostuneita tai tupakalle haisevia kirjoja, lehtiä tai sarjakuvia. Terveydellisistä syistä emme voi ottaa vastaan myöskään sisäilmaongelmaisista kohteista tulevia tuotteita. Liikkeisiin voi tuoda tuotteita liikkeiden aukioloaikojen puitteissa.</p>"
+      },
+      {
+        "id": 2,
+        "name": "Messukalenteri",
+        "url": "messukalenteri",
+        "content": "Messukalenteri-sivun sisältö"
+      },
+      {
+        "id": 3,
+        "name": "Myyntipisteet",
+        "url": "myyntipisteet",
+        "content": "Myyntipisteet-sivun sisältö"
+      },
+      {
+        "id": 4,
+        "name": "Toimistusehdot",
+        "url": "toimistusehdot",
+        "content": "Toimistusehdot-sivun sisältö"
+      }
+    ]
+  },
+  {
+    "domain": "localhost:3000",
+    "_id": {
+      "$oid": "0000044df9500e3450893543"
+    },
+    "tila": 1,
+    "ynimi": "OllinOnni Oy",
+    "osoite": "Mannerheiminkatu 5",
+    "pno": "48300",
+    "ptp": "Helsinki",
+    "maa": "Suomi",
+    "puh": "-",
+    "faksi": "",
+    "matkapuh": "",
+    "lytunnus": "3199731-7",
+    "regtunnus": null,
+    "perustettu": "2004",
+    "omistaja": null,
+    "email": "tilaukset@ollinonni.fi",
+    "www_osoite": null,
+    "pvm": {
+      "$date": "2008-01-09T21:53:28.367Z"
+    },
+    "toimiala": "Osto- ja myyntiliike",
+    "tietoa": "<p>OllinOnni on Karhulassa sijaitseva osto- ja myyntiliike, josta l&ouml;ytyy my&ouml;s hyv&auml; kirjavalikoima. Yrityksell&auml; ei ole yleis&ouml;lle avointa liiketilaa.</p><p>&nbsp;</p>",
+    "toimitustieto": "<p>Toimituskulu on kiinte&auml;hintainen 4,90 euroa/tilaus.</p><p>Toimitustapoina on Postin kirje- sek&auml; pakettil&auml;hetykset. L&auml;hetystavan p&auml;&auml;tt&auml;&auml; myyj&auml;. Kirjeet l&auml;hetet&auml;&auml;n Postin seurattavana kirjeen&auml;. Mik&auml;li ostaja haluaa muuten kirjeen&auml; l&auml;hetett&auml;v&auml;n kirjan pakettina, on lis&auml;kustannus 5,00 euroa. Lis&auml;veloitus paketin kotiintoimittamisesta on 10,00 euroa.</p><p>Noutamattoman l&auml;hetyksen palautuskulu veloitetaan asiakkaalta. Paketeissa veloitus on 7,50 euroa, ja kirjeiss&auml; 4,50 euroa.</p><p>Toimitamme kirjoja my&ouml;s ulkomaille. Niiden toimituskuluna veloitan todellisen postimaksun.&nbsp;</p><p>Kirjastoille, kouluille sek&auml; julkishallinolle laskutusmyynti.</p><p>Kirjoilla on normaali palautusoikeus 14 p&auml;iv&auml;n ajan. OllinOnni maksaa l&auml;hetyskulut.</p>",
+    "tiedote": "<p>BIC-koodi: OKOYFIHH</p>",
+    "tiedote_pvm": {
+      "$date": "2021-08-10T07:52:51.392Z"
+    },
+    "antikvaariKauppias": true,
+    "aukiolo": "<p>OllinOnnilla ei ole kivijalkamyym&auml;l&auml;&auml;, mutta verkkokauppamme palvelee kellon ymp&auml;ri.</p>",
+    "antikvaari_id": 1101,
+    "lukittu": true,
+    "__v": 0,
+    "maksutavat": [
+      {
+        "maksutapa": "Verkkopankkimaksu",
+        "tiedot": "Visma Pay -maksupalvelu",
+        "maksuehto": 0,
+        "maksupalvelu": "Visma Pay",
+        "tila": false,
+        "autoVahvistus": true
+      },
+      {
+        "maksutapa": "Ennakkomaksu",
+        "tiedot": "Tilisiirto ennen toimitusta",
+        "maksuehto": 0,
+        "tila": true,
+        "autoVahvistus": false
+      },
+      {
+        "maksutapa": "Lasku",
+        "tiedot": "Yrityksille ja yhteisöille",
+        "maksuehto": 14,
+        "tila": false,
+        "autoVahvistus": false
+      },
+      {
+        "maksutapa": "Noudettaessa",
+        "tiedot": "Käteisellä noudettaessa",
+        "tila": false,
+        "autoVahvistus": false
+      }
+    ],
+    "tilausvahvistus": "Tilaus on vahvistettu",
+    "toimitustavat": [
+      {
+        "toimitustapa": "Nouto",
+        "toimitustiedot": "Nouto liikkeestä aukioloaikoina",
+        "toimituskulut": "0",
+        "tila": false
+      },
+      {
+        "toimitustapa": "Toimitus",
+        "toimitustiedot": "Toimitustapa riippuu tilauksen koosta ja painosta. Voit esittää kauppiaalle toiveita toimitustavasta viestikentän kautta.",
+        "toimituskulut": "4,90",
+        "ilmainenToimitus": "",
+        "tila": true
+      },
+      {
+        "toimitustapa": "Toimitus perille",
+        "toimitustiedot": "Toimitus kotiinkuljetettuna",
+        "toimituskulut": "",
+        "ilmainenToimitus": "",
+        "tila": false
+      },
+      {
+        "toimitustapa": "Ulkomaat",
+        "toimitustiedot": "Ulkomaan toimitus",
+        "toimituskulut": "",
+        "ilmainenToimitus": "",
+        "tila": false
+      }
+    ],
+    "naytaOsoite": false,
+    "naytaPuh": false,
+    "tilausvastaanotettu": "",
+    "antikkaKauppias": false,
+    "apiKayttaja": true,
+    "maksunsaaja": "",
+    "tuoteTila": true,
+    "provisio": 5,
+    "views": 7,
+    "maksutavat_pvm": {
+      "$date": "2022-10-20T10:14:11.364Z"
+    },
+    "visma_pay_disabled": null,
+    "visma_pay_id": null,
+    "visma_pay_requested": false,
+
+    "colors": [
+      {
+        "id": 1,
+        "name": "secondary",
+        "hex": "#00ffff"
+      }
+    ],
+    "logo": "https://loopy2.mauri.posso.fi/wp-content/themes/loopy-teema/assets/images/logo_oranssi.png",
+    "frontpage": {
+      "title": "OllinOnni",
+      "excerpt": "Tässä tila lyhyelle tekstille",
+      "hero": "https://loopy2.mauri.posso.fi/wp-content/uploads/2024/04/loopy_oranssi.png",
+      "readmore": {
+        "text": "Lue lisää",
+        "url": "https://loopy.fi/"
+      }
+    },
+    "pages": [
+      {
+        "id": 1,
+        "name": "Kirjat",
+        "url": "kirjat",
+        "content": "Kirjat-sivun sisältö"
+      },
+      {
+        "id": 2,
+        "name": "Tietoa meistä",
+        "url": "tietoa-meista",
+        "content": "Tietoa meistä-sivun sisältö"
+      },
+      {
+        "id": 3,
+        "name": "Yhteystiedot",
+        "url": "yhteystiedot",
+        "content": "Yhteystiedot-sivun sisältö"
+      }
+    ]
+  },
+  {
+    "domain": "localhost:3002",
+    "_id": {
+      "$oid": "63481170aaf6e4b2338eab7c"
+    },
+    "tila": 1,
+    "ynimi": "Huippukirja.com",
+    "osoite": "Reinolaisenkatu 10",
+    "pno": "43700",
+    "ptp": "Tampere",
+    "maa": "",
+    "puh": "-",
+    "faksi": null,
+    "matkapuh": "05056210778",
+    "lytunnus": "123124-2",
+    "regtunnus": null,
+    "perustettu": null,
+    "omistaja": "Testi Kauppias",
+    "email": "testi.kauppias@loopy.fi",
+    "www_osoite": null,
+    "pvm": {
+      "$date": "2020-10-21T14:41:51.070Z"
+    },
+    "toimiala": null,
+    "tietoa": "<p>Ostakaa ostakaa!</p>",
+    "toimitustieto": "<p><br></p>",
+    "tiedote": "",
+    "tiedote_pvm": {
+      "$date": "2021-10-05T08:05:17.048Z"
+    },
+    "antikvaariKauppias": true,
+    "aukiolo": "<p>Netissä 24/7</p>",
+    "antikvaari_id": 6666,
+    "lukittu": false,
+    "__v": 0,
+    "maksutavat": [
+      {
+        "maksutapa": "Verkkopankkimaksu",
+        "tiedot": "Visma Pay -maksupalvelu",
+        "maksuehto": 0,
+        "maksupalvelu": "Visma Pay",
+        "tila": false,
+        "autoVahvistus": true
+      },
+      {
+        "maksutapa": "Ennakkomaksu",
+        "tiedot": "Tilisiirto ennen toimitusta",
+        "maksuehto": 0,
+        "tila": true,
+        "autoVahvistus": false
+      },
+      {
+        "maksutapa": "Lasku",
+        "tiedot": "Lasku vain yrityksille ja yhteisöille.",
+        "maksuehto": 21,
+        "tila": false,
+        "autoVahvistus": false
+      },
+      {
+        "maksutapa": "Noudettaessa",
+        "tiedot": "Käteisellä noudettaessa",
+        "tila": false,
+        "autoVahvistus": false
+      }
+    ],
+    "tilausvahvistus": "Hei,\n\nTilauksenne on nyt vahvistettu!\n\nTerveisin,\nMarkon Kirja",
+    "toimitustavat": [
+      {
+        "toimitustapa": "Nouto",
+        "toimitustiedot": "Nouto liikkeestä aukioloaikoina",
+        "toimituskulut": "0",
+        "tila": false
+      },
+      {
+        "toimitustapa": "Toimitus",
+        "toimitustiedot": "Toimitustapa riippuu tilauksen koosta ja painosta. Voit esittää kauppiaalle toiveita toimitustavasta viestikentän kautta.",
+        "toimituskulut": "",
+        "ilmainenToimitus": "",
+        "tila": true
+      },
+      {
+        "toimitustapa": "Toimitus perille",
+        "toimitustiedot": "Toimitus kotiinkuljetettuna",
+        "toimituskulut": "",
+        "ilmainenToimitus": "",
+        "tila": false
+      },
+      {
+        "toimitustapa": "Ulkomaat",
+        "toimitustiedot": "Ulkomaan toimitus",
+        "toimituskulut": "",
+        "ilmainenToimitus": "",
+        "tila": false
+      }
+    ],
+    "naytaOsoite": true,
+    "naytaPuh": false,
+    "tilausvastaanotettu": "Hei, \n\nKiitokset tilauksestanne!\n\nTerveisin,\nMarko Kirja",
+    "antikkaKauppias": false,
+    "apiKayttaja": false,
+    "maksunsaaja": "Marko Pylkkänen",
+    "provisio": 14,
+    "tuoteTila": true,
+    "bic": "OBOYFIHH",
+    "salasanan_pal": {
+      "token": "",
+      "luotu": {
+        "$date": "2022-01-20T20:25:36.959Z"
+      }
+    },
+    "views": 43,
+    "maksutavat_pvm": {
+      "$date": "2022-10-20T10:14:22.205Z"
+    },
+    "visma_pay_disabled": null,
+    "visma_pay_id": null,
+    "visma_pay_requested": false,
+    "reviewOrders": {
+      "rating": 1.8,
+      "count": 1,
+      "updated": {
+        "$date": "2023-03-13T16:16:12.836Z"
+      }
+    },
+    "lomaAika": null,
+    "lomaTila": false,
+    "lomaTila_pvm": {
+      "$date": "2023-06-03T10:42:45.441Z"
+    },
+    "lomaViesti": "",
+    "lomaAsetettu": null,
+    "colors": [
+      {
+        "id": 1,
+        "name": "quaternary",
+        "hex": "#33FF57"
+      }
+    ],
+    "logo": "https://loopy2.mauri.posso.fi/wp-content/themes/loopy-teema/assets/images/logo_oranssi.png",
+    "frontpage": {
+      "title": "Salpakirja",
+      "excerpt": "Joku lyhyt teksti",
+      "hero": "https://loopy2.mauri.posso.fi/wp-content/uploads/2024/04/loopy_oranssi.png",
+      "readmore": {
+        "text": "Lue lisää",
+        "url": "https://salpakirja.net/"
+      }
+    },
+    "pages": [
+      {
+        "id": 1,
+        "name": "Ostamme",
+        "url": "ostamme",
+        "content": "<h1>Ostamme ja otamme vastaan hyväkuntoisia kirjoja, lehtiä ja sarjakuvia</h1><p>Olemme avanneet palvelun, jossa hyväkuntoisia kirjoja otetaan lahjoituksena ilmaiseksi vastaan Haminan ja Kotkan liikkeissä. Emme kuitenkaan ota vastaan rikkinäisiä, kostuneita tai tupakalle haisevia kirjoja, lehtiä tai sarjakuvia. Terveydellisistä syistä emme voi ottaa vastaan myöskään sisäilmaongelmaisista kohteista tulevia tuotteita. Liikkeisiin voi tuoda tuotteita liikkeiden aukioloaikojen puitteissa.</p>"
+      },
+      {
+        "id": 2,
+        "name": "Messukalenteri",
+        "url": "messukalenteri",
+        "content": "Messukalenteri-sivun sisältö"
+      },
+      {
+        "id": 3,
+        "name": "Myyntipisteet",
+        "url": "myyntipisteet",
+        "content": "Myyntipisteet-sivun sisältö"
+      },
+      {
+        "id": 4,
+        "name": "Toimistusehdot",
+        "url": "toimistusehdot",
+        "content": "Toimistusehdot-sivun sisältö"
+      }
+    ]
+  },
+  {
+    "domain": "localhost:3003",
+    "_id": {
+      "$oid": "637c632980d7ac8f4ab7dd33"
+    },
+    "tila": 1,
+    "ynimi": "BookRead",
+    "osoite": "Reinokaisenkatu 5",
+    "pno": "48390",
+    "ptp": "Turku",
+    "maa": "",
+    "puh": "-",
+    "faksi": null,
+    "matkapuh": "050556126",
+    "lytunnus": "3105451-1",
+    "regtunnus": null,
+    "perustettu": null,
+    "omistaja": "Marko Pylkkänen",
+    "email": "wiirus85@gmail.com",
+    "www_osoite": null,
+    "pvm": {
+      "$date": "2020-10-21T14:41:51.070Z"
+    },
+    "toimiala": null,
+    "tietoa": "<p>Good books</p>",
+    "toimitustieto": "<p><br></p>",
+    "tiedote": "",
+    "tiedote_pvm": {
+      "$date": "2021-10-05T08:05:17.048Z"
+    },
+    "antikvaariKauppias": true,
+    "aukiolo": "",
+    "antikvaari_id": 6667,
+    "lukittu": false,
+    "__v": 0,
+    "maksutavat": [
+      {
+        "maksutapa": "Verkkopankkimaksu",
+        "tiedot": "Visma Pay -maksupalvelu",
+        "maksuehto": 0,
+        "maksupalvelu": "Visma Pay",
+        "tila": true,
+        "autoVahvistus": true
+      },
+      {
+        "maksutapa": "Ennakkomaksu",
+        "tiedot": "Tilisiirto ennen toimitusta",
+        "maksuehto": 0,
+        "tila": true,
+        "autoVahvistus": true
+      },
+      {
+        "maksutapa": "Lasku",
+        "tiedot": "Lasku vain yrityksille ja yhteisöille.",
+        "maksuehto": 21,
+        "tila": false,
+        "autoVahvistus": false
+      },
+      {
+        "maksutapa": "Noudettaessa",
+        "tiedot": "Käteisellä noudettaessa",
+        "tila": true,
+        "autoVahvistus": false,
+        "maksuehto": 0
+      }
+    ],
+    "tilausvahvistus": "Hei,\n\nTilauksenne on nyt vahvistettu!\n\nTerveisin,\nMarkon Kirja",
+    "toimitustavat": [
+      {
+        "toimitustapa": "Nouto",
+        "toimitustiedot": "Nouto liikkeestä aukioloaikoina",
+        "toimituskulut": "0",
+        "tila": true
+      },
+      {
+        "toimitustapa": "Toimitus",
+        "toimitustiedot": "Toimitustapa riippuu tilauksen koosta ja painosta. Voit esittää kauppiaalle toiveita toimitustavasta viestikentän kautta.",
+        "toimituskulut": "5",
+        "ilmainenToimitus": "40",
+        "tila": true
+      },
+      {
+        "toimitustapa": "Toimitus perille",
+        "toimitustiedot": "Toimitus kotiinkuljetettuna",
+        "toimituskulut": "9,90",
+        "ilmainenToimitus": "60",
+        "tila": true
+      },
+      {
+        "toimitustapa": "Ulkomaat",
+        "toimitustiedot": "Ulkomaan toimitus",
+        "toimituskulut": "",
+        "ilmainenToimitus": "",
+        "tila": true
+      }
+    ],
+    "naytaOsoite": false,
+    "naytaPuh": false,
+    "tilausvastaanotettu": "Hei, \n\nKiitokset tilauksestanne!\n\nTerveisin,\nMarko Kirja",
+    "antikkaKauppias": false,
+    "apiKayttaja": false,
+    "maksunsaaja": "Kirjaverkko Oy",
+    "provisio": 14,
+    "tuoteTila": true,
+    "bic": "OBOYFIHH",
+    "views": 39,
+    "maksutavat_pvm": {
+      "$date": "2022-10-20T10:14:22.205Z"
+    },
+    "visma_pay_disabled": null,
+    "visma_pay_id": "43787",
+    "visma_pay_requested": false,
+    "visma_pay_activated": {
+      "$date": "2022-11-22T04:03:21.000Z"
+    },
+    "toimitustavat_pvm": {
+      "$date": "2022-12-22T05:47:08.932Z"
+    },
+    "fennoa_id": "",
+    "laskutusEmail": "wiirus85@gmail.com",
+    "laskutusKanava": "email",
+    "operaattoritunnus": "",
+    "provisioUudet": null,
+    "rekNimi": "Kirjaverkko Oy",
+    "verkkolaskuosoite": "",
+    "muistio": "14.2.2023 20.00: Visma Pay -verkkomaksut poistettu käytöstä.\n14.2.2023 20.00: Admin muuttanut kauppiaan tietoja.\n",
+    "reviewOrders": {
+      "rating": 3.5,
+      "count": 3,
+      "updated": {
+        "$date": "2023-08-12T05:42:31.150Z"
+      }
+    },
+    "colors": [
+      {
+        "id": 1,
+        "name": "tertiary",
+        "hex": "#FF5733"
+      }
+    ],
+    "logo": "https://loopy2.mauri.posso.fi/wp-content/themes/loopy-teema/assets/images/logo_oranssi.png",
+    "frontpage": {
+      "title": "Salpakirja",
+      "excerpt": "Joku lyhyt teksti",
+      "hero": "https://loopy2.mauri.posso.fi/wp-content/uploads/2024/04/loopy_oranssi.png",
+      "readmore": {
+        "text": "Lue lisää",
+        "url": "https://salpakirja.net/"
+      }
+    },
+    "pages": [
+      {
+        "id": 1,
+        "name": "Ostamme",
+        "url": "ostamme",
+        "content": "<h1>Ostamme ja otamme vastaan hyväkuntoisia kirjoja, lehtiä ja sarjakuvia</h1><p>Olemme avanneet palvelun, jossa hyväkuntoisia kirjoja otetaan lahjoituksena ilmaiseksi vastaan Haminan ja Kotkan liikkeissä. Emme kuitenkaan ota vastaan rikkinäisiä, kostuneita tai tupakalle haisevia kirjoja, lehtiä tai sarjakuvia. Terveydellisistä syistä emme voi ottaa vastaan myöskään sisäilmaongelmaisista kohteista tulevia tuotteita. Liikkeisiin voi tuoda tuotteita liikkeiden aukioloaikojen puitteissa.</p>"
+      },
+      {
+        "id": 2,
+        "name": "Messukalenteri",
+        "url": "messukalenteri",
+        "content": "Messukalenteri-sivun sisältö"
+      },
+      {
+        "id": 3,
+        "name": "Myyntipisteet",
+        "url": "myyntipisteet",
+        "content": "Myyntipisteet-sivun sisältö"
+      },
+      {
+        "id": 4,
+        "name": "Toimistusehdot",
+        "url": "toimistusehdot",
+        "content": "Toimistusehdot-sivun sisältö"
+      }
+    ]
+  }
+]
