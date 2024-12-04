@@ -1,31 +1,40 @@
 import MaxWidthWrapper from "@/components/max-width-wrapper";
-import { getAllBooks } from "@/lib/actions/product.action";
 import BookSearch from "./booksearch.js";
+import { findBooks } from "@/lib/actions/product.action"; // Import the fetchBooks function
 
 interface SearchParams {
   query: string;
   language: string;
   productGroup: string;
+  author: string;
 }
 
 interface PageProps {
-  allBooks: Array<{
-    id: string;
-    title: string;
-    author: string;
-    language?: string;
-    productGroup?: string;
-  }>;
+  allBooks:
+    | Array<{
+        id: string;
+        title: string;
+        author: string;
+        language?: string;
+        productGroup?: string;
+      }>
+    | undefined;
   searchParams: SearchParams;
 }
 
 async function Page({ searchParams }: PageProps) {
-  const allBooks = await getAllBooks();
+  // Use fetchBooks instead of getFilteredBooks
+  const filteredBooks = await findBooks({
+    title: searchParams.query,
+    language: searchParams.language,
+    productGroup: searchParams.productGroup,
+    author: searchParams.author,
+  });
 
   return (
     <div className="w-full min-h-screen h-fit mt-[160px] pt-16">
       <MaxWidthWrapper>
-        <BookSearch allBooks={allBooks} searchParams={searchParams} />
+        <BookSearch allBooks={filteredBooks} searchParams={searchParams} />
       </MaxWidthWrapper>
 
       <MaxWidthWrapper className="my-8">
@@ -45,7 +54,7 @@ async function Page({ searchParams }: PageProps) {
             <p className="text-white font-bold text-md my-2">
               Salpakirja Oy on kirjakauppa ja antikvariaatti, jonka kaikki
               tuotteet löytyvät myös verkkokaupoista www.salpakirja.net ja
-              www.antikvaari.fi. Salpakirjan  Kirjaspotti -nimellä toimivat
+              www.antikvaari.fi. Salpakirjan Kirjaspotti -nimellä toimivat
               liikkeet löydät Kotkasta ja Haminasta.
             </p>
             <span className="text-white font-bold text-md my-2">

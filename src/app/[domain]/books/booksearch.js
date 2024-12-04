@@ -3,43 +3,26 @@ import ProductReel from "@/components/books-reel";
 import getVendor from "@/lib/getVendor";
 import Link from "next/link";
 import { getAllGroups, getAllLanguages } from "@/lib/actions/product.action";
-
-// Helper function to filter books
-function filterBooks(allBooks, query, language, productGroup, author) {
-  return allBooks.filter((book) => {
-    const matchesQuery =
-      !query || book.nimi.toLowerCase().includes(query.toLowerCase());
-    const matchesAuthor =
-      !author || book.tekija.toLowerCase().includes(author.toLowerCase());
-    const matchesLanguage =
-      !language || book.kieli?.toLowerCase() === language.toLowerCase();
-    const matchesProductGroup =
-      !productGroup || book.tuoteryhma == productGroup;
-    return (
-      matchesQuery && matchesLanguage && matchesProductGroup && matchesAuthor
-    );
-  });
-}
+import { findBooks } from "@/lib/actions/product.action"; // Import fetchBooks
 
 const BookSearch = async ({ allBooks, searchParams }) => {
   const vendor = await getVendor();
   const languages = await getAllLanguages();
   const groups = await getAllGroups();
 
-  // Extract search parameters from URL
-  const query = searchParams.query || "";
-  const language = searchParams.language || "";
-  const productGroup = searchParams.productGroup || "";
-  const author = searchParams.author || "";
+  // Extract search parameters from the URL
+  const query = searchParams?.query || "";
+  const language = searchParams?.language || "";
+  const productGroup = searchParams?.productGroup || "";
+  const author = searchParams?.author || "";
 
-  // Filter books based on search parameters
-  const filteredBooks = filterBooks(
-    allBooks,
-    query,
+  // Fetch books based on search parameters using fetchBooks
+  const filteredBooks = await findBooks({
+    title: query,
     language,
     productGroup,
-    author
-  );
+    author,
+  });
 
   return (
     <div className="w-full flex flex-col gap-8">
@@ -96,10 +79,9 @@ const BookSearch = async ({ allBooks, searchParams }) => {
                 className="w-full h-[50px] bg-white rounded-lg border border-[#757575] px-4"
               >
                 <option value="">Valitse tuoteryhmä</option>
-                {/* Replace with dynamically generated options */}
-                {groups.map((groups) => (
-                  <option key={groups.nimi} value={groups._id}>
-                    {groups.nimi}
+                {groups.map((group) => (
+                  <option key={group._id} value={group._id}>
+                    {group.nimi}
                   </option>
                 ))}
               </select>
@@ -127,15 +109,12 @@ const BookSearch = async ({ allBooks, searchParams }) => {
       <div className="w-full">
         <div className="flex justify-between items-center mb-6">
           <h2 className="text-2xl font-bold playfair-display">
-            Hakutulokset ({filteredBooks.length})
+            Hakutulokset ({filteredBooks?.length})
           </h2>
         </div>
 
-        {filteredBooks.length > 0 ? (
-          <ProductReel
-            books={filteredBooks.slice(0, 10)}
-            title="Hakutulokset"
-          />
+        {filteredBooks?.length > 0 ? (
+          <ProductReel books={filteredBooks} title="Hakutulokset" />
         ) : (
           <div className="w-full py-16 flex flex-col items-center justify-center text-gray-500">
             <BookIcon size={48} className="mb-4" />

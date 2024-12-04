@@ -80,7 +80,7 @@ export async function getAllLanguages() {
     return []; // If vendor ID is missing, return empty array
   }
 
-  // Query products using vendor's `antikvaari_id`
+  // Query products using vendor's antikvaari_id
   const products = await product.find({ y_id: vendor.antikvaari_id });
 
   // Extract unique languages
@@ -97,7 +97,7 @@ export async function getAllGroups() {
     return []; // If vendor ID is missing, return empty array
   }
 
-  // Query products using vendor's `antikvaari_id`
+  // Query products using vendor's antikvaari_id
   const products = await product.find({ y_id: vendor.antikvaari_id });
 
   // Extract unique group IDs
@@ -119,6 +119,66 @@ export async function getBookByIdAction({ id }) {
     return null;
   }
 }
+
+export async function getFilteredBooks(
+  query = "",
+  language = "",
+  productGroup = "",
+  author = ""
+) {
+  const params = new URLSearchParams();
+  if (query) params.append("query", query);
+  if (language) params.append("language", language);
+  if (productGroup) params.append("productGroup", productGroup);
+  if (author) params.append("author", author);
+
+  const response = await fetch(/api/books?${params.toString()});
+  const data = await response.json();
+  return data.books || [];
+}
+
+export const findBooks = async ({ title, language, productGroup, author }) => {
+  try {
+    // Build the query object dynamically
+    const query = {};
+
+    if (title) {
+      query.nimi = { $regex: title, $options: "i" }; // Case-insensitive regex search for 'nimi' (title)
+    }
+
+    if (language) {
+      query.kieli = language; // Searching in 'kieli' for language
+    }
+
+    if (productGroup) {
+      query.tuoteryhma = productGroup; // Searching in 'tuoteryhma' for product group
+    }
+
+    if (author) {
+      query.tekija = { $regex: author, $options: "i" }; // Case-insensitive regex search for 'tekija' (author)
+    }
+
+    // Get the vendor's information
+    const vendor = await getVendor();
+
+    // Find the products with matching y_id (filter by vendor's id first)
+    const products = await product.find({ y_id: vendor?.antikvaari_id });
+
+    // Now filter books within the matching products using the dynamic query
+    const books = await product
+      .find({
+        ...query, // Include dynamic search filters
+        _id: { $in: products.map((p) => p._id) }, // Only search books that match the vendor's y_id
+      })
+      .limit(10) // Limit the results to 10 books
+      .lean();
+
+    return books; // Return the matching books
+  } catch (error) {
+    console.error("Error finding books:", error);
+    throw new Error("Failed to retrieve books");
+  }
+};
 
 export async function createAndSaveProducts(data) {
   await connectToDB();
