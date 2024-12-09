@@ -17,7 +17,7 @@ export default async function Home() {
         <div
           className="w-full h-[389px]  flex rounded-2xl items-center justify-start md:justify-end gap-y-4 relative px-4 md:px-12"
           style={{
-            backgroundImage: `url('${vendor?.frontpage.hero}')`,
+            backgroundImage: url('${vendor?.frontpage.hero}'),
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
@@ -43,9 +43,9 @@ export default async function Home() {
         <ProductReel books={products as any[]} title="UUSIMMAT" />
       </MaxWidthWrapper>
 
-      <MaxWidthWrapper className="h-fit">
+      {/* <MaxWidthWrapper className="h-fit">
         <SearchForm />
-      </MaxWidthWrapper>
+      </MaxWidthWrapper> */}
 
       <MaxWidthWrapper className="my-8">
         <div className="w-full min-h-[425px] h-fit grid grid-cols-1 md:grid-cols-2 gap-8">
